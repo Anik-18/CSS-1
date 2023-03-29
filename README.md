@@ -53,6 +53,8 @@
 
 	7) Attribute Selector :
     	    ( EX: input[type=text]{} )     input[type=text] { color:red; }
+	
+	8) Child Selector
 
 ### Property:: ( Property:value; )
 		Color: teal/ #000000/ 122 555 125 ;
